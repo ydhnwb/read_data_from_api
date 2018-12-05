@@ -1,8 +1,3 @@
-# read_data_from_api
+Flutter : Read data from API (jsonplaceholder)
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+For more : https://medium.com/@yudhanewbie/flutter-membaca-data-dari-api-bf430a6f950a
